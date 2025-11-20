@@ -37,7 +37,6 @@ All datasets are structured to allow:
 - Revenue trend exploration
 
 ## Project Structure
-## Project Structure
 
 ```
 project/
