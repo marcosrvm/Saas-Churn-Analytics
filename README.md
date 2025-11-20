@@ -37,6 +37,7 @@ All datasets are structured to allow:
 - Revenue trend exploration
 
 ## Project Structure
+'''
 project/
 ├── data/
 │ ├── raw/
@@ -55,6 +56,7 @@ project/
 │ ├── modeling.py
 ├── README.md
 └── requirements.txt
+'''
 
 ## Languages & tools
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
