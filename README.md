@@ -66,7 +66,7 @@ project/
 - Power BI (dashboard coming soon)  
 - Git & GitHub
 
-## 🔄 Methodology (Pipeline) 
+## Methodology (Pipeline) 
 1. Data loading & cleaning 
 2. SQL feature engineering  
 3. EDA in Python
