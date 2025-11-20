@@ -37,26 +37,29 @@ All datasets are structured to allow:
 - Revenue trend exploration
 
 ## Project Structure
-'''
+## Project Structure
+
+```
 project/
 ├── data/
-│ ├── raw/
-│ └── processed/
+│   ├── raw/
+│   └── processed/
 ├── sql/
-│ ├── cohorts.sql
-│ ├── churn_features.sql
-│ ├── revenue_metrics.sql
+│   ├── cohorts.sql
+│   ├── churn_features.sql
+│   └── revenue_metrics.sql
 ├── notebooks/
-│ ├── 01_data_exploration.ipynb
-│ ├── 02_feature_engineering.ipynb
-│ ├── 03_churn_model.ipynb
+│   ├── 01_data_exploration.ipynb
+│   ├── 02_feature_engineering.ipynb
+│   └── 03_churn_model.ipynb
 ├── src/
-│ ├── utils.py
-│ ├── preprocessing.py
-│ ├── modeling.py
+│   ├── utils.py
+│   ├── preprocessing.py
+│   └── modeling.py
 ├── README.md
 └── requirements.txt
-'''
+```
+
 
 ## Languages & tools
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
