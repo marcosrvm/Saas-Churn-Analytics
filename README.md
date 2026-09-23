@@ -29,6 +29,7 @@ Synthetic SaaS data designed to replicate a real B2B subscription business. Main
 
 ## Project Structure
 
+```
 project/
 ├── data/
 │   └── raw/
@@ -38,6 +39,7 @@ project/
 ├── src/
 ├── README.md
 └── requirements.txt
+```
 
 ## Languages & tools
 - Python (Pandas, NumPy)
